@@ -9,3 +9,4 @@ data/external/*
 
 .env
 .DS_Store
+.vscode/
